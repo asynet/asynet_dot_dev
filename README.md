@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b0fb2d72-32a1-4191-8e31-6b33ed1e85a8/deploy-status)](https://app.netlify.com/sites/asynet/deploys)
+
 # Easy Setup (Hugo + Netlify + Forestry)
 Build your website with meghna hugo theme by following this easy steps (No Coding Required)
 
