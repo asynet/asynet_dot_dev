@@ -1,4 +1,4 @@
-baseURL = "https://asynet.netlify.com"
+baseURL = "https://asynet.netlify.app"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
