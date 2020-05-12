@@ -1,10 +1,10 @@
-baseURL = "https://asynet.netlify.app"
+baseURL = "https://www.asynet.dev"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Meghna"
+title = "Asynet Enterprise Services LTD"
 [Languages.en]
 contentDir = "content/english"
 copyright = "copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved"
