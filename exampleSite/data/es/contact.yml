@@ -15,4 +15,4 @@ contact:
   - icon: ti-email
     info: 'Email: richard@asynet.es'
   map:
-    enable: false
+    enable: true
