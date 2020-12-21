@@ -1,5 +1,5 @@
 baseURL = "https://www.asynet.dev"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -12,13 +12,6 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.es]
-contentDir = "content/spanish"
-copyright = "copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved"
-home = "Inicio"
-languageCode = "es-es"
-languageName = "Es"
-weight = 3
 [Languages.fr]
 contentDir = "content/french"
 copyright = "copyright et copie; 2019 [gethugothemes] (https://gethugothemes.com) tous droits réservés"
