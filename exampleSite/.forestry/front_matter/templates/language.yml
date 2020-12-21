@@ -177,3 +177,44 @@ fields:
     - type: text
       name: copyright
       label: copyright
+  - name: es
+    type: field_group
+    config: {}
+    fields:
+    - name: languagename
+      type: text
+      config:
+        required: false
+      label: languageName
+    - name: languagecode
+      type: text
+      config:
+        required: false
+      label: languageCode
+    - name: contentdir
+      type: text
+      config:
+        required: false
+      label: contentDir
+    - name: weight
+      type: number
+      label: weight
+      description: ''
+      default: 0
+      required: true
+      config:
+        min: 
+        max: 
+        step: 
+    - name: home
+      type: text
+      config:
+        required: false
+      label: home
+    - name: copyright
+      type: text
+      config:
+        required: false
+      label: copyright
+    label: es
+    description: Spanish
