@@ -12,7 +12,7 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.en]
+[Languages.es]
 contentDir = "content/spanish"
 copyright = "copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved"
 home = "Inicio"
