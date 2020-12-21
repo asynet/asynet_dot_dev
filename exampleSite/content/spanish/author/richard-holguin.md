@@ -1,5 +1,4 @@
 +++
-draft = true
 email = "richard@asynet.es"
 image = ""
 title = "Richard Holguín"
