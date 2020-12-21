@@ -4,7 +4,7 @@ email = "richard@asynet.es"
 image = ""
 title = "Richard Holguín"
 [[social]]
-icon = ""
+icon = "ti-twitter-alt"
 link = "twitter.com/asynetes"
 
 +++
