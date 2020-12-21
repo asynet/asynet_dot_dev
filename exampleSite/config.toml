@@ -1,11 +1,10 @@
 baseURL = "https://www.asynet.dev"
-disableLanguages = []
+disableLanguages = ["fr", "en"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 title = "Asynet Enterprise Services LTD"
-[Languages]
 [Languages.en]
 contentDir = "content/english"
 copyright = "copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved"
@@ -13,13 +12,6 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
-contentDir = "content/french"
-copyright = "copyright et copie; 2019 [gethugothemes] (https://gethugothemes.com) tous droits réservés"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
 [Languages.es]
 contentDir = "content/spanish"
 copyright = "copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved"
@@ -27,6 +19,13 @@ home = "Inicio"
 languageCode = "es-es"
 languageName = "Es"
 weight = 3
+[Languages.fr]
+contentDir = "content/french"
+copyright = "copyright et copie; 2019 [gethugothemes] (https://gethugothemes.com) tous droits réservés"
+home = "Accueil"
+languageCode = "fr-fr"
+languageName = "Fr"
+weight = 2
 [[menu.main]]
 URL = "about"
 name = "About Us"
