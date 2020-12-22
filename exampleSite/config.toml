@@ -82,14 +82,6 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.static]]
-URL = "https://www.asynet.es"
-name = "Asynet"
-weight = "9"
-[[menu.static]]
-URL = "https://themefisher.com/"
-name = "Themefisher"
-weight = "8"
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
