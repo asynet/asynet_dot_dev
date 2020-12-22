@@ -12,20 +12,6 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
-contentDir = "content/french"
-copyright = "copyright et copie; 2019 [gethugothemes] (https://gethugothemes.com) tous droits réservés"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
-[Languages.es]
-contentDir = "content/spanish"
-copyright = "copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved"
-home = "Inicio"
-languageCode = "es-es"
-languageName = "Es"
-weight = 3
 [[Languages.en.menu.main]]
 URL = "about"
 name = "About Us"
@@ -54,6 +40,13 @@ weight = 6
 URL = "contact"
 name = "Contact"
 weight = 7
+[Languages.es]
+contentDir = "content/spanish"
+copyright = "copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved"
+home = "Inicio"
+languageCode = "es-es"
+languageName = "Es"
+weight = 3
 [[Languages.es.menu.main]]
 URL = "about"
 name = "Sobre Nosotros"
@@ -82,6 +75,17 @@ weight = 6
 URL = "contact"
 name = "Contacto"
 weight = 7
+[Languages.fr]
+contentDir = "content/french"
+copyright = "copyright et copie; 2019 [gethugothemes] (https://gethugothemes.com) tous droits réservés"
+home = "Accueil"
+languageCode = "fr-fr"
+languageName = "Fr"
+weight = 2
+[[menu.static]]
+URL = "www.asynet.es"
+name = "Asynet"
+weight = "2"
 [[menu.static]]
 URL = "https://themefisher.com/"
 name = "Themefisher"
