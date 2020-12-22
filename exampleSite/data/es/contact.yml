@@ -12,7 +12,7 @@ contact:
   - icon: ti-mobile
     info: 'Phone: +44 7455 777 345'
   - icon: ti-email
-    info: 'Email: richard@asynet.es'
+    info: 'Email: developers@asynet.es'
   map:
     enable: true
     gmap_api: AIzaSyC8DksB0mGuZfvSFpBLKIXkvL4IbL40HdM
