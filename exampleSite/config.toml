@@ -12,13 +12,6 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.es]
-contentDir = "content/spanish"
-copyright = "copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved"
-home = "Inicio"
-languageCode = "es-es"
-languageName = "Es"
-weight = 3
 [Languages.fr]
 contentDir = "content/french"
 copyright = "copyright et copie; 2019 [gethugothemes] (https://gethugothemes.com) tous droits réservés"
@@ -26,33 +19,68 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.main]]
+[Languages.es]
+contentDir = "content/spanish"
+copyright = "copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved"
+home = "Inicio"
+languageCode = "es-es"
+languageName = "Es"
+weight = 3
+[[Languages.en.menu.main]]
 URL = "about"
 name = "About Us"
 weight = 1
-[[menu.main]]
+[[Languages.en.menu.main]]
 URL = "services"
 name = "Service"
 weight = 2
-[[menu.main]]
+[[Languages.en.menu.main]]
 URL = "portfolio"
 name = "Portfolio"
 weight = 3
-[[menu.main]]
+[[Languages.en.menu.main]]
 URL = "team"
 name = "Team"
 weight = 4
-[[menu.main]]
+[[Languages.en.menu.main]]
 URL = "pricing"
 name = "Pricing"
 weight = 5
-[[menu.main]]
+[[Languages.en.menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 6
-[[menu.main]]
+[[Languages.en.menu.main]]
 URL = "contact"
 name = "Contact"
+weight = 7
+[[Languages.es.menu.main]]
+URL = "about"
+name = "Sobre Nosotros"
+weight = 1
+[[Languages.es.menu.main]]
+URL = "services"
+name = "Servicios"
+weight = 2
+[[Languages.es.menu.main]]
+URL = "portfolio"
+name = "Portfolio"
+weight = 3
+[[Languages.es.menu.main]]
+URL = "team"
+name = "Equipo"
+weight = 4
+[[Languages.es.menu.main]]
+URL = "pricing"
+name = "Precio"
+weight = 5
+[[Languages.es.menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 6
+[[Languages.es.menu.main]]
+URL = "contact"
+name = "Contacto"
 weight = 7
 [[menu.static]]
 URL = "https://themefisher.com/"
