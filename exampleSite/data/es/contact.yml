@@ -9,12 +9,13 @@ contact:
   form_action: "#"
   contact_details:
   - icon: ti-location-pin
-    info: Khaja Road, Bayzid, Chittagong, Bangladesh
+    info: 160 City Road, London, United Kingdom
   - icon: ti-mobile
-    info: 'Phone: +880-31-000-000'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
+    info: 'Phone: +44 7455 777 345'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: richard@asynet.es'
   map:
-    enable: false
+    enable: true
+    gmap_api: AIzaSyC8DksB0mGuZfvSFpBLKIXkvL4IbL40HdM
+    map_latitude: "51.52739712639149"
+    map_longitude: "-0.08900685907050085"

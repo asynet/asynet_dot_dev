@@ -1,11 +1,10 @@
 baseURL = "https://www.asynet.dev"
-disableLanguages = []
+disableLanguages = ["Fr", "En"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
 title = "Asynet Enterprise Services LTD"
-[Languages]
 [Languages.en]
 contentDir = "content/english"
 copyright = "copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved"
@@ -13,13 +12,6 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
-contentDir = "content/french"
-copyright = "copyright et copie; 2019 [gethugothemes] (https://gethugothemes.com) tous droits réservés"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
 [Languages.es]
 contentDir = "content/spanish"
 copyright = "copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved"
@@ -27,6 +19,13 @@ home = "Inicio"
 languageCode = "es-es"
 languageName = "Es"
 weight = 3
+[Languages.fr]
+contentDir = "content/french"
+copyright = "copyright et copie; 2019 [gethugothemes] (https://gethugothemes.com) tous droits réservés"
+home = "Accueil"
+languageCode = "fr-fr"
+languageName = "Fr"
+weight = 2
 [[menu.main]]
 URL = "about"
 name = "About Us"
@@ -66,11 +65,13 @@ google_analitycs_id = ""
 logo = "images/logo.png"
 post_share = true
 [params.map]
-enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+enable = false
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyC8DksB0mGuZfvSFpBLKIXkvL4IbL40HdM"
+map_latitude = "51.52739712639149"
+map_longitude = "-0.08900685907050085"
 map_marker = "images/marker.png"
+[[params.plugins.css]]
+link = "plugins/fontawesome/all.css"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -97,22 +98,13 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 [params.preloader]
 enable = true
-preloader = "images/logo.png"
+preloader = "images/favicon.png"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com/Asynet-431461757192540"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-youtube"
-link = "#"
+link = "https://www.twitter.com/asynetes"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
-[[params.social]]
-icon = "ti-dribbble"
-link = "#"
-[[params.social]]
-icon = "ti-pinterest"
-link = "#"
+link = "https://www.linkedin.com/company/asynet/"
