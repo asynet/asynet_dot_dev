@@ -1,4 +1,4 @@
-baseURL = "https://www.asynet.dev"
+baseURL = "https://www.asynet.es"
 disableLanguages = ["Fr"]
 disqusShortname = ""
 paginate = "6"
