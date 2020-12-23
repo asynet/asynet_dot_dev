@@ -4,7 +4,7 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ti-harddrives
-  title: Bienvenido al portal de desarrolladores de Asynet Enterprise Services
+  title: Bienvenido al portal de Asynet Enterprise Services
   content: En construcción
   button:
     enable: true
