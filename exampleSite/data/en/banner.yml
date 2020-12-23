@@ -3,8 +3,8 @@ banner:
   enable: true
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
-  icon: ti-world
-  title: Welcome to Asynet Enterprise Services Developer portal
+  icon: ''
+  title: Welcome to Asynet Enterprise Services portal
   content: Work in Progress
   button:
     enable: true
