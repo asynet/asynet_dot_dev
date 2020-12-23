@@ -20,52 +20,52 @@ portfolio:
     image: images/portfolio/portfolio-3.jpg
     image_webp: images/portfolio/portfolio-3.webp
     categories:
-    - design
-    - development
+    - diseño
+    - desarrollo
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     link: "#"
   - name: Bottol Label
     image: images/portfolio/portfolio-4.jpg
     image_webp: images/portfolio/portfolio-4.webp
     categories:
-    - photography
-    - development
+    - desarrollo
+    - fotografia
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     link: "#"
   - name: Shopping Bag
     image: images/portfolio/portfolio-5.jpg
     image_webp: images/portfolio/portfolio-5.webp
     categories:
-    - design
+    - diseño
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     link: "#"
   - name: Tag Design
     image: images/portfolio/portfolio-6.jpg
     image_webp: images/portfolio/portfolio-6.webp
     categories:
-    - photography
+    - fotografia
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     link: "#"
   - name: Business Card
     image: images/portfolio/portfolio-7.jpg
     image_webp: images/portfolio/portfolio-7.webp
     categories:
-    - development
+    - desarrollo
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     link: "#"
   - name: Stationary Design
     image: images/portfolio/portfolio-8.jpg
     image_webp: images/portfolio/portfolio-8.webp
     categories:
-    - design
-    - development
+    - diseño
+    - desarrollo
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     link: "#"
   - name: Tag Design
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
     categories:
-    - design
-    - photography
+    - diseño
+    - fotografia
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
     link: "#"
