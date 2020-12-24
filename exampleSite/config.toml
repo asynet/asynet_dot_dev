@@ -85,7 +85,7 @@ weight = 2
 [[menu.static]]
 URL = "https://richard.asynet.es"
 name = "Themefisher"
-weight = 8
+weight = "5"
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
