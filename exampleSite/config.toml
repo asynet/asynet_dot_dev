@@ -41,6 +41,10 @@ URL = "contact"
 name = "Contact"
 weight = 7
 [[Languages.en.menu.main]]
+URL = ""
+name = "|"
+weight = "8"
+[[Languages.en.menu.main]]
 URL = "https://richard.asynet.es"
 name = "Richard"
 weight = "8"
