@@ -49,43 +49,43 @@ languageName = "Es"
 weight = 3
 [[Languages.es.menu.main]]
 URL = "about"
-pre = "#"
 name = "Sobre Nosotros"
+pre = "#"
 weight = 1
 [[Languages.es.menu.main]]
 URL = "services"
-pre = "#"
 name = "Servicios"
+pre = "#"
 weight = 2
 [[Languages.es.menu.main]]
 URL = "portfolio"
-pre = "#"
 name = "Portfolio"
+pre = "#"
 weight = 3
 [[Languages.es.menu.main]]
 URL = "team"
-pre = "#"
 name = "Equipo"
+pre = "#"
 weight = 4
 [[Languages.es.menu.main]]
 URL = "pricing"
-pre = "#"
 name = "Precio"
+pre = "#"
 weight = 5
 [[Languages.es.menu.main]]
 URL = "blog"
-pre = "#"
 name = "Blog"
+pre = "#"
 weight = 6
 [[Languages.es.menu.main]]
 URL = "contact"
-pre = "#"
 name = "Contacto"
+pre = "#"
 weight = 7
 [[Languages.es.menu.main]]
-URL = "https://richard.asynet.es"
-pre = ""
+URL = ""
 name = "Richard"
+pre = "https://richard.asynet.es"
 weight = "8"
 [Languages.fr]
 contentDir = "content/french"
