@@ -83,9 +83,10 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.static]]
-name = "Themefisher"
 URL = "https://themefisher.com/"
-weight = 8
+name = "Themefisher"
+url = "https://richard.asynet.es"
+weight = 1
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
