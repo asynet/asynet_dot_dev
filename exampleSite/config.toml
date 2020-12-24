@@ -48,6 +48,10 @@ languageCode = "es-es"
 languageName = "Es"
 weight = 3
 [[Languages.es.menu.main]]
+URL = "https://richard.asynet.es"
+name = "Test"
+weight = "8"
+[[Languages.es.menu.main]]
 URL = "about"
 name = "Sobre Nosotros"
 weight = 1
@@ -83,14 +87,9 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.static]]
-name = "Test"
-url = "https://richard.asynet.es"
-weight = 2
-[[menu.static]]
-URL = "https://themefisher.com/"
+URL = "https://richard.asynet.es"
 name = "Themefisher"
-url = "https://richard.asynet.es"
-weight = 1
+weight = "8"
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
