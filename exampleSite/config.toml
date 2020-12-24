@@ -48,10 +48,6 @@ languageCode = "es-es"
 languageName = "Es"
 weight = 3
 [[Languages.es.menu.main]]
-URL = ""
-name = "Test"
-weight = "8"
-[[Languages.es.menu.main]]
 URL = "about"
 name = "Sobre Nosotros"
 weight = 1
