@@ -83,7 +83,7 @@ name = "Contacto"
 pre = "#"
 weight = 7
 [[Languages.es.menu.main]]
-URL = ""
+URL = "https://richard.asynet.es"
 name = "Richard"
 pre = "https://richard.asynet.es"
 weight = "8"
