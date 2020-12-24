@@ -42,7 +42,7 @@ name = "Contact"
 weight = 7
 [Languages.es]
 contentDir = "content/spanish"
-copyright = "copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved"
+copyright = "copyright &copy; [Asynet Enterprise Services LTD](https://www.asynet.es) Todos los derechos reservados"
 home = "Inicio"
 languageCode = "es-es"
 languageName = "Es"
