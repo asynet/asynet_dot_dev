@@ -7,7 +7,7 @@ theme = "meghna-hugo"
 title = "Asynet Enterprise Services LTD"
 [Languages.en]
 contentDir = "content/english"
-copyright = "copyright &copy; 2019 [gethugothemes](https://gethugothemes.com) all right reserved"
+copyright = "copyright &copy; [Asynet Enterprise Services LTD](https://www.asynet.es) All Rights Reserved"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
