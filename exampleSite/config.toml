@@ -48,10 +48,6 @@ languageCode = "es-es"
 languageName = "Es"
 weight = 3
 [[Languages.es.menu.main]]
-URL = ""
-name = "Test"
-weight = "8"
-[[Languages.es.menu.main]]
 URL = "about"
 name = "Sobre Nosotros"
 weight = 1
@@ -79,6 +75,10 @@ weight = 6
 URL = "contact"
 name = "Contacto"
 weight = 7
+[[Languages.es.menu.main]]
+URL = ""
+name = "Test"
+weight = "8"
 [Languages.fr]
 contentDir = "content/french"
 copyright = "copyright et copie; 2019 [gethugothemes] (https://gethugothemes.com) tous droits réservés"
@@ -86,6 +86,8 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
+[menu]
+static = ["Test"]
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
