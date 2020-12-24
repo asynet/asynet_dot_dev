@@ -83,7 +83,7 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [menu]
-static = []
+static = ["Test"]
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
