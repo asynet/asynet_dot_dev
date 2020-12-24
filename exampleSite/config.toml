@@ -40,6 +40,10 @@ weight = 6
 URL = "contact"
 name = "Contact"
 weight = 7
+[[Languages.en.menu.main]]
+URL = "https://richard.asynet.es"
+name = "Richard"
+weight = "8"
 [Languages.es]
 contentDir = "content/spanish"
 copyright = "copyright &copy; [Asynet Enterprise Services LTD](https://www.asynet.es) Todos los derechos reservados"
