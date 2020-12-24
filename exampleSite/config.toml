@@ -85,7 +85,6 @@ weight = 2
 [[menu.static]]
 name = "Themefisher"
 URL = "https://themefisher.com/"
-name = "Themefisher"
 weight = 8
 [params]
 author = "Themefisher"
