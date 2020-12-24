@@ -50,43 +50,31 @@ weight = 3
 [[Languages.es.menu.main]]
 URL = "about"
 name = "Sobre Nosotros"
-pre = "#"
 weight = 1
 [[Languages.es.menu.main]]
 URL = "services"
 name = "Servicios"
-pre = "#"
 weight = 2
 [[Languages.es.menu.main]]
 URL = "portfolio"
 name = "Portfolio"
-pre = "#"
 weight = 3
 [[Languages.es.menu.main]]
 URL = "team"
 name = "Equipo"
-pre = "#"
 weight = 4
 [[Languages.es.menu.main]]
 URL = "pricing"
 name = "Precio"
-pre = "#"
 weight = 5
 [[Languages.es.menu.main]]
 URL = "blog"
 name = "Blog"
-pre = "#"
 weight = 6
 [[Languages.es.menu.main]]
 URL = "contact"
 name = "Contacto"
-pre = "#"
 weight = 7
-[[Languages.es.menu.main]]
-URL = "https://richard.asynet.es"
-name = "Richard"
-pre = "https://richard.asynet.es"
-weight = "8"
 [Languages.fr]
 contentDir = "content/french"
 copyright = "copyright et copie; 2019 [gethugothemes] (https://gethugothemes.com) tous droits réservés"
