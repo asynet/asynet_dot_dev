@@ -18,7 +18,7 @@ name = "About Us"
 weight = 1
 [[Languages.en.menu.main]]
 URL = "services"
-name = "Service"
+name = "Services"
 weight = 2
 [[Languages.en.menu.main]]
 URL = "portfolio"
@@ -82,6 +82,8 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
+[menu]
+static = []
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
