@@ -4,7 +4,7 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
-  title: Wilcommen to Asynet Enterprise Services portal
+  title: Welcome to Asynet Enterprise Services portal
   content: Work in Progress
   button:
     enable: true
